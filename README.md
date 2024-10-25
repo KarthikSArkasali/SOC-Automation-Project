@@ -1,4 +1,4 @@
-# ~ SOC-Automation-Project
+# ~ SOC Automation Project Utilizing TheHive, Wazuh, and Shuffle for Enhanced Incident Response.
 
 This project focuses on developing an automated security monitoring and incident response system within a Security Operations Center (SOC) by integrating TheHive, Wazuh, and Shuffle (SOAR). The objective is to design, configure, and automate workflows for efficient incident detection, alerting, and response, streamlining the entire incident management lifecycle. By leveraging these integrated tools, the system enables rapid threat detection and response, reducing manual workload and enhancing the SOC’s overall efficiency and resilience against cyber threats.
 
