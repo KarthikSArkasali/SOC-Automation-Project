@@ -10,11 +10,11 @@ This project focuses on developing an automated security monitoring and incident
 
 ![Installed Virtual Machines](https://github.com/user-attachments/assets/a99af2a9-8d02-48e0-b8cb-8288edf61411)
 
-# ~ Installed Sysmon on the Windows 10 host for enhanced event monitoring and logging.
+# Installed Sysmon on the Windows 10 host for enhanced event monitoring and logging.
 
 ![Sysmon](https://github.com/user-attachments/assets/a743f91f-5a35-4137-b88b-a5caf7f87b8a)
 
-# ~ Installed and configured a Wazuh server on an Ubuntu 24.04 host for comprehensive threat detection and monitoring.
+# Installed and configured a Wazuh server on an Ubuntu 24.04 host for comprehensive threat detection and monitoring.
 
 ![Installing Wazuh ](https://github.com/user-attachments/assets/997d1f3d-cd05-4e65-ab81-ad4a5d33780d)
 
@@ -26,11 +26,11 @@ This project focuses on developing an automated security monitoring and incident
 
 ![thehive](https://github.com/user-attachments/assets/5f5d3387-5fbe-4bdf-aedd-c978a6a65959)
 
-# ~ Added an agent in the Wazuh dashboard GUI and deployed the Windows agent by executing PowerShell commands to facilitate enhanced monitoring and management.
+# Added an agent in the Wazuh dashboard GUI and deployed the Windows agent by executing PowerShell commands to facilitate enhanced monitoring and management.
 
 ![Endpoint Wazuh](https://github.com/user-attachments/assets/5382e9a0-e38d-4840-921f-14d6cfab16b1)
 
-# ~ Verified that the Wazuh agent is running on Windows 10 by checking the Services application.
+# Verified that the Wazuh agent is running on Windows 10 by checking the Services application.
 
 ![Services](https://github.com/user-attachments/assets/dd1f58f7-e2a2-46ea-a9d9-2d43eaaa471f)
 
